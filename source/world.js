@@ -1,1 +1,2 @@
-var word = 'Hello';
+var word = 'Hello'
+export default word
